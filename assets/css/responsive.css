@@ -1,0 +1,50 @@
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 422px) and (max-width: 767px) {
+
+.arrow {
+    top: 150px;
+}
+.further-banner-service-text{
+    width: 100%;
+}
+    
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+.banner-text-area {
+    padding: 30px 0;
+}
+.banner-text{
+    margin:15px;
+}
+.banner-text-area .btn-area {
+    margin-left: 15px;
+}
+.further-banner-service-text{
+    width: 100%;
+}
+#team {
+    padding: 30px 0;
+}
+#coding {
+    padding: 30px 0;
+}
+#news {
+    padding: 30px 0;
+} 
+.footer-service-area {
+    padding: 30px 0;
+}
+}
+
+
